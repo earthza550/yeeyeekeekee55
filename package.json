@@ -1,0 +1,17 @@
+{
+  "name": "aaakkk55",
+  "theme": "syntax",
+  "version": "1.0.14",
+  "description": "แนวทางหวยยี่กี เลขเด็ดหวยยี่กี เผย 4 วิธี ซื้อหวยยี่กี ให้ได้กำไร",
+  "keywords": [
+    "แนวทางหวยยี่กี",
+    "เลขเด็ดหวยยี่กี",
+    "วิธีซื้อหวยยี่กี",
+    "ซื้อหวยยี่กี"
+  ],
+  "repository": "https://github.com/earthza550/yeeyeekeekee55",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
